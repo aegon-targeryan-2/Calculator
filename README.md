@@ -39,5 +39,16 @@ python calc.py
 - Tkinter
 - CustomTkinter
 
+```bash
+pip install customtkinter
+```
+## Download
+
+Download the latest version from Releases:
+
+[Download Calculator App](https://github.com/Codilosopher/Calculator/releases/latest)
+
+Or download the installer directly from the Releases section.
+
 Thank you for checking out this project.  
 Feel free to download, use, modify, or improve it.
