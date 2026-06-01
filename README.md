@@ -1,6 +1,6 @@
 # Calculator App 
 
-A simple calculator application built using Tkinter and CustomTkinter that can perform basic mathematical operations easily.
+A simple desktop calculator application built using Tkinter and CustomTkinter that can perform basic mathematical operations easily.
 
 ## Features
 
