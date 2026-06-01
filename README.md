@@ -15,7 +15,7 @@ A simple desktop calculator application built using Tkinter and CustomTkinter th
 
 ## Installation
 
-1. Download or clone this repository
+1. Clone or download this repository to your system and open it in your preferred IDE.
 
 ```bash
 git clone https://github.com/Codilosopher/Calculator.git
